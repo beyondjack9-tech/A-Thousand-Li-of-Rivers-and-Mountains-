@@ -1,0 +1,5 @@
+{
+  "name": "Poetic Landscape - A Thousand Li of Rivers and Mountains",
+  "description": "An interactive generative art piece recreating the aesthetics of the Song Dynasty painting 'A Thousand Li of Rivers and Mountains' using React and HTML5 Canvas.",
+  "requestFramePermissions": []
+}
